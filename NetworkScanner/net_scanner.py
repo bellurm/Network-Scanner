@@ -4,10 +4,10 @@ import optparse
 usage = """
 'USAGE'
 ------------------------------------------------
-1. python netscanner.py -i <ip/24>
-2. python3 netscanner.py -i <ip/24>
-3. python netscanner.py --ipaddress <ip/24> 
-4. python3 netscanner.py --ipaddress <ip/24>
+1. python net_scanner.py -i <ip/24>
+2. python3 net_scanner.py -i <ip/24>
+3. python net_scanner.py --ipaddress <ip/24> 
+4. python3 net_scanner.py --ipaddress <ip/24>
 ------------------------------------------------
 """
 def get_user_input():
